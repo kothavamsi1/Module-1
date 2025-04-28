@@ -1,5 +1,5 @@
 # Experiment No: 1a Python Basics- Printing Multiline String
-## name: Kotha vamsi
+## Name: Kotha vamsi
 ## AIM  
 To create a Python program to print the string in multiple lines using triple quotes.
 
